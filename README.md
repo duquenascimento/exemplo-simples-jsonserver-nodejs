@@ -1,8 +1,6 @@
 # Exemplo simples Jsonserver com Node JS
-Um exemplo simples do uso do json-server no nodejs
-
-# Exemplo Simples Json-server
 Este projeto foi gerado com  [Node JS](https://nodejs.org/en/docs/) versão v12.16.1
+
 ## Iniciando
 
 Execute `git clone https://github.com/duquenascimento/exemplo-simples-jsonserver-nodejs` para clonar o projeto. Execute `npm install` para instalação da dependências do projeto
